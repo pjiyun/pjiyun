@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ji yun.
 - 👀 I’m student.
 - 🌱 I’m currently learning my world
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on korean Japanese And Telegram Bot repos
 - 📫 How to reach me ...
 
 <!---
